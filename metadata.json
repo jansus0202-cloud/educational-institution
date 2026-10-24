@@ -1,0 +1,6 @@
+{
+  "name": "SR College of Competitions — Gandhi Nagar, Jammu",
+  "description": "Premium 3D editorial web platform for civil services (UPSC/IAS) and state administrative examination (JKAS) preparation at SR College of Competitions, Gandhi Nagar, Jammu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
